@@ -1,0 +1,15 @@
+/*Estilos de los contenedores*/
+#tab-content {
+  position: relative;
+  width: 200%;
+  height: 200px;
+  display: flex;
+  transition: transform 0.5s ease;
+}
+/*Estilos de los contenedores*/
+.tab-page {
+  flex: 1;
+  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
